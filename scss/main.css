@@ -47,10 +47,9 @@
       -ms-flex-align: center;
           align-items: center;
   height: 200px;
-  padding-top: 80px;
+  padding-top: 40px;
   width: 80%;
   margin: auto auto;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .banner-section1 h1 {
