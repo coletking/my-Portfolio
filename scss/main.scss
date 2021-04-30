@@ -34,6 +34,7 @@ img{
     background-position: center;
     background-size: cover;
     
+   
     
 }
 
@@ -79,7 +80,7 @@ img{
 
 .card-body{
     color: black;
-    text-align: center;
+    
 
     }
 
@@ -116,4 +117,96 @@ img{
         text-transform: uppercase;
         font-weight: bolder;
     }
+}
+
+.banner-view1{
+    background-image: url(../img/markus-spiske-4T5MTKMrjZg-unsplash.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    text-align: center;
+    padding-top: 50px;
+    text-transform: uppercase;
+    color: white;
+
+
+  h1{
+     font-size: 40px;
+     font-weight: bolder;
+    }
+}
+
+.banner-view2{
+    background-image: url(../img/sai-kiran-anagani-5Ntkpxqt54Y-unsplash.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    text-align: center;
+    padding-top: 50px;
+    text-transform: uppercase;
+    color: white;
+
+
+  h1{
+     font-size: 40px;
+     font-weight: bolder;
+    }
+}
+
+.banner-view3{
+    background-image: url(../img/jamie-davies-tfFgPNNSKvo-unsplash.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    text-align: center;
+    padding-top: 50px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bolder;
+    
+
+
+  h1{
+     font-size: 40px;
+     font-weight: bolder;
+     font-family:sans-serif;
+    }
+}
+
+.new-parentDiv{
+    width: 100%;
+    margin: auto auto;
+}
+
+.new-bodyDiv{
+    display: flex;
+    justify-content: space-between;
+  
+    
+}
+
+.new-main1{
+    padding-top: 30px;
+
+    img{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    h5{
+        text-align: justify;
+    }
+}
+
+
+
+@media( max-width: 768px){
+    .new-bodyDiv{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    
+     }
 }
