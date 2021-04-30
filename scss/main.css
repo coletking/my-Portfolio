@@ -167,6 +167,26 @@
   font-family: sans-serif;
 }
 
+.banner-view4 {
+  background-image: url(../img/contact-page-banner.png);
+  width: 100%;
+  background-position: right;
+  background-size: 40%;
+  background-repeat: no-repeat;
+  height: 200px;
+  text-align: center;
+  padding-top: 50px;
+  text-transform: uppercase;
+  color: black;
+  font-weight: bolder;
+}
+
+.banner-view4 h1 {
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: sans-serif;
+}
+
 .new-parentDiv {
   width: 100%;
   margin: auto auto;
@@ -192,6 +212,70 @@
 
 .new-main1 h5 {
   text-align: justify;
+}
+
+.formset {
+  width: 80%;
+  margin: auto auto;
+}
+
+.contact-form {
+  background: #fff;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  width: 80%;
+}
+
+.contact-form .form-control {
+  border-radius: 1rem;
+}
+
+.contact-image {
+  text-align: center;
+}
+
+.contact-image img {
+  border-radius: 6rem;
+  width: 11%;
+  margin-top: -3%;
+  -webkit-transform: rotate(29deg);
+          transform: rotate(29deg);
+}
+
+.contact-form form {
+  padding: 14%;
+}
+
+.contact-form form .row {
+  margin-bottom: -7%;
+}
+
+.contact-form h3 {
+  margin-bottom: 4%;
+  margin-top: -10%;
+  text-align: center;
+  color: #0062cc;
+}
+
+.contact-form .btnContact {
+  width: 60%;
+  border: none;
+  border-radius: 1rem;
+  padding: 1.5%;
+  background: #dc3545;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+}
+
+.btnContactSubmit {
+  width: 50%;
+  border-radius: 1rem;
+  padding: 1.5%;
+  color: #fff;
+  background-color: #0062cc;
+  border: none;
+  cursor: pointer;
 }
 
 @media (max-width: 768px) {
