@@ -237,13 +237,13 @@
 .contact-image img {
   border-radius: 6rem;
   width: 11%;
-  margin-top: -3%;
   -webkit-transform: rotate(29deg);
           transform: rotate(29deg);
 }
 
 .contact-form form {
   padding: 14%;
+  margin: 10px;
 }
 
 .contact-form form .row {

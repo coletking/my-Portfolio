@@ -1,0 +1,11 @@
+I an in the business of building  web applications for my clients both national and international.  <br>
+
+I specialize in various tech stacks for building  mobile applications.
+ Some top frameworks/stacks we commonly use to build projects are listed below: <br>
+
+
+React: For JavaScript library/framework for building nice frontend single page web applications.
+Node.js: A nice tool for building fast and powerful server application. This can be used to power
+ both mobile, desktop and web app front ends.
+MongoDB: A document-based database for building powerful databases and storage.
++more
